@@ -1,6 +1,6 @@
-# Immersive Ventures: Revolutionizing Reality Experiences
+# Immerse.vr: Revolutionizing Reality Experiences
 
-Welcome to the Immersive Ventures GitHub repository! We're at the forefront of pioneering Augmented and Virtual Reality (AR/VR) experiences in Jammu and Kashmir.
+Welcome to the Immerse.vr GitHub repository! We're at the forefront of pioneering Augmented and Virtual Reality (AR/VR) experiences in Jammu and Kashmir.
 
 ## About
 
@@ -24,11 +24,11 @@ To experience the future now, follow these simple steps:
 
 ## Contributing
 
-We invite you to actively participate in shaping the future of Immersive Ventures. Whether you're a developer, designer, or enthusiast, your contributions are welcome. [Fork the repository](https://github.com/KRISHBHADWAL/immersive-ventures/fork), make your enhancements, and submit a [pull request](https://github.com/KRISHBHADWAL/immersive-ventures/pulls).
+We invite you to actively participate in shaping the future of Immersive Ventures. Whether you're a developer, designer, or enthusiast, your contributions are welcome. [Fork the repository](https://github.com/KRISHBHADWAL/immersive.vr/fork), make your enhancements, and submit a [pull request](https://github.com/KRISHBHADWAL/immersive.vr/pulls).
 
 ## Feedback
 
-We value your thoughts and experiences with Immersive Ventures. Share your feedback, report issues, or suggest enhancements by [opening an issue](https://github.com/KRISHBHADWAL/immersive-ventures/issues) in the repository. Together, we can make the immersive future even more captivating.
+We value your thoughts and experiences with Immersive Ventures. Share your feedback, report issues, or suggest enhancements by [opening an issue](https://github.com/KRISHBHADWAL/immersive.vr/issues) in the repository. Together, we can make the immersive future even more captivating.
 
 
 Thank you for your time – join us in actively participating in the now of innovation. We can't wait to share this immersive future with you.
