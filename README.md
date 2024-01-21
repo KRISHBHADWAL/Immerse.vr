@@ -20,7 +20,7 @@ To experience the future now, follow these simple steps:
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
-3. Run the immersive.exe (Windows) or immersive.app (Mac) file to launch the AR/VR experience.
+3. Run   immersive.vr apk (Oculus) file to launch the AR/VR experience.
 
 ## Contributing
 
