@@ -30,8 +30,5 @@ We invite you to actively participate in shaping the future of Immersive Venture
 
 We value your thoughts and experiences with Immersive Ventures. Share your feedback, report issues, or suggest enhancements by [opening an issue](https://github.com/KRISHBHADWAL/immersive-ventures/issues) in the repository. Together, we can make the immersive future even more captivating.
 
-## License
-
-Immersive Ventures is open-source and licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and distribute in accordance with the terms specified in the license.
 
 Thank you for your time – join us in actively participating in the now of innovation. We can't wait to share this immersive future with you.
